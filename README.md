@@ -20,8 +20,12 @@
 ## Ver.2(Update) : 2023.11.30 ~ 2023.12.20
 
 실행방법
+패키지 실행? requirements
+배포?
 
 사용기술
-
+언어: Python
+모델: Prophet, Google Earth Engine Classifier
+웹 구현: streamlit
 
 참고자료
