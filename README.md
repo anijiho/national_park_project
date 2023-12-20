@@ -2,7 +2,7 @@
 Sentinel-1 Change Detection Platform Using Geemap
 
 팀 소개 / Contributor
-![Uploading image.png…]()
+!(Uploading image.png…)
 
 팀명: 반달이의 눈 
 안지호(팀장) : 기획, 총괄
