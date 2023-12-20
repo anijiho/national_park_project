@@ -1,22 +1,23 @@
 # national_park_project
-Sentinel-1 Change Detection Platform Using Geemap
+위성 데이터 기반 국립공원 관리 서비스 '반달이의 눈'
+##Sentinel Change Detection Platform Using Geemap
 
-팀 소개 / Contributor
+#Team Introduction / Contributor
 !(Uploading image.png…)
+##Team name : 반달이의 눈 Eyes of Bandal
+###An Ji-ho(Leader) : 기획, 총괄
+###Shin Ye-bin : 기획, 웹 페이지 개발
+###Lee Do-hyeon : 기획, 모델링
+###Jeon Hye-joon : 기획, 웹 페이지 개발
+###Ha jeong-min: 기획, 모델링
 
-팀명: 반달이의 눈 
-안지호(팀장) : 기획, 총괄
-신예빈(부팀장) : 기획, 웹 페이지 개발
-이도현 : 기획, 모델링
-전혜준 : 기획, 웹 페이지 개발
-하정민: 기획, 모델링
-
-
-프로젝트 소개
+#Project Introduction
 
 
 
-개발기간
+#Development Period
+##Ver.1 : 2023.10.20 ~ 2023.11.29
+##Ver.2(Update) : 2023.11.30 ~ 2023.12.20
 
 실행방법
 
