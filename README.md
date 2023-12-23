@@ -10,7 +10,7 @@
 1. Environmental Management
    - Timelapse
   <p align="center">
-    <img src="image,video/Timelapse_Sentinel1.gif" width="500">
+    <img src="image,video/Timelapse_Sentinel1.gif" width="200">
     <img src="image,video/Timelapse_Sentinel2.gif" width="500">
   </p>
    - Surface Change Detection
