@@ -19,7 +19,7 @@
     <img src="image,video/Timelapse_Sentinel2.gif" width="500">
   </p>
   
-   - Surface Change Detection
+     - Surface Change Detection
    <p align="center">
   <img src="image,video/Surface_change_detection_.gif"  width="800">
   </p>
@@ -30,12 +30,12 @@
   <img src="image,video/Vegetation_Index.gif"  width="800">
   </p>
      
-   - Soil Profiling(Component Content/Moisture Content)
+     - Soil Profiling(Component Content/Moisture Content)
   <p align="center">
   <img src="image,video/soil_profiling.gif"  width="800">
   </p>
   
-   - Water Resource Management(Precipitation/Groundwater Recharge Rate)
+     - Water Resource Management(Precipitation/Groundwater Recharge Rate)
   <p align="center">
   <img src="image,video/Water Resource.gif"  width="800">
   </p>
@@ -55,11 +55,11 @@
 
 ### Development Period
 - Ver.1 : 2023.10.20 ~ 2023.11.29
-- Ver.2(Update) : 2023.11.30 ~ 2023.12.20
+- Ver.2 : 2023.11.30 ~ 2023.12.20
 
 ### Especially Thanks to
 - Yoo Byeong Hyuk
 - Crego, R. D., Stabach, J. A., & Connette, G.
-  For sharing the great resource on online, the 'code'! We would be nothing without your codes.
+#### for sharing the great resource on online, the 'code'! We would be nothing without your codes.
 
 
