@@ -8,8 +8,8 @@
 
 ### Function
 #### Satellite Based Change Detection
-1. Environmental Management
-   - Timelapse
+- Environmental Management
+   1. Timelapse
   <p align="center">
   <img src="image,video/Timelapse_web.gif"  width="800">
   </p>
@@ -19,29 +19,29 @@
     <img src="image,video/Timelapse_Sentinel2.gif" width="500">
   </p>
   
-     - Surface Change Detection
+   2. Surface Change Detection
    <p align="center">
   <img src="image,video/Surface_change_detection_.gif"  width="800">
   </p>
 
-2. Resource Monitoring
-   - Vegetation Index Analysis/Prediction
+- Resource Monitoring
+   1. Vegetation Index Analysis/Prediction
   <p align="center">
   <img src="image,video/Vegetation_Index.gif"  width="800">
   </p>
      
-     - Soil Profiling(Component Content/Moisture Content)
+   2. Soil Profiling(Component Content/Moisture Content)
   <p align="center">
   <img src="image,video/soil_profiling.gif"  width="800">
   </p>
   
-     - Water Resource Management(Precipitation/Groundwater Recharge Rate)
+   3. Water Resource Management(Precipitation/Groundwater Recharge Rate)
   <p align="center">
   <img src="image,video/Water Resource.gif"  width="800">
   </p>
   
-3. Disaster/Safety
-   - Landslide Susceptibility Map(of South Korea)
+- Disaster/Safety
+  Landslide Susceptibility Map(of South Korea)
   <p align="center">
   <img src="image,video/landslide.gif"  width="800">
   </p>
