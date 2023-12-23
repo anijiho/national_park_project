@@ -41,7 +41,7 @@
   </p>
   
 - Disaster/Safety
-  Landslide Susceptibility Map(of South Korea)
+   1. Landslide Susceptibility Map(of South Korea)
   <p align="center">
   <img src="image,video/landslide.gif"  width="800">
   </p>
