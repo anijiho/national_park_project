@@ -1,46 +1,65 @@
 # 'Eye of Bandal' Korean National Park AI Solution Service
-### Sentinel Satellite Based Nature Change Detection Platform Using Geemap 
+### Sentinel Satellite Based Nature Change Detection Platform 
+#### Using Geemap 
 
 <p align="center">
   <img src="image,video/logo.png" alt="logo"/>
 </p>
 
-# Function
-### Satellite Based Change Detection
+### Function
+#### Satellite Based Change Detection
 1. Environmental Management
    - Timelapse
+  <p align="center">
+  <img src="image,video/Timelapse_web.gif"  width="800">
+  </p>
+  
   <p align="center">
     <img src="image,video/Timelapse_Sentinel1.gif" width="200">
     <img src="image,video/Timelapse_Sentinel2.gif" width="500">
   </p>
+  
    - Surface Change Detection
    <p align="center">
-  <img src="image,video/surface_change_detection.gif"  width="600">
+  <img src="image,video/Surface_change_detection_.gif"  width="800">
   </p>
 
-     
 2. Resource Monitoring
    - Vegetation Index Analysis/Prediction
+  <p align="center">
+  <img src="image,video/Vegetation_Index.gif"  width="800">
+  </p>
+     
    - Soil Profiling(Component Content/Moisture Content)
+  <p align="center">
+  <img src="image,video/soil_profiling.gif"  width="800">
+  </p>
+  
    - Water Resource Management(Precipitation/Groundwater Recharge Rate)
-      
+  <p align="center">
+  <img src="image,video/Water Resource.gif"  width="800">
+  </p>
+  
 3. Disaster/Safety
-   - Landslide Susceptibility Map(Of South Korea)
+   - Landslide Susceptibility Map(of South Korea)
+  <p align="center">
+  <img src="image,video/landslide.gif"  width="800">
+  </p>
+  
+### How to run
 
-# How to run
+### Tool
+- Language : Python
+- AI Model : Prophet(Meta), Google Earth Engine Classifier
+- Web : Streamlit
 
-# Tool
-Language : Python
-AI Model : Prophet(Meta), Google Earth Engine Classifier
-Web : Streamlit
+### Development Period
+- Ver.1 : 2023.10.20 ~ 2023.11.29
+- Ver.2(Update) : 2023.11.30 ~ 2023.12.20
 
-# Development Period
-Ver.1 : 2023.10.20 ~ 2023.11.29
-Ver.2(Update) : 2023.11.30 ~ 2023.12.20
-
-# Especially Thanks to
+### Especially Thanks to
 - Yoo Byeong Hyuk
 - Crego, R. D., Stabach, J. A., & Connette, G.
-For sharing the great resource on online, the 'code'! We would be nothing without your codes.
+  For sharing the great resource on online, the 'code'! We would be nothing without your codes.
 
 
