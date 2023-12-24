@@ -41,7 +41,7 @@
   </p>
   
 - Disaster/Safety
-   1. Landslide Prediction Map(of South Korea)
+   1. Landslide vulnerability Map(of South Korea) / Landslide Predict modeling(LPM)
   <p align="center">
   <img src="image,video/landslide.gif"  width="800">
   </p>
